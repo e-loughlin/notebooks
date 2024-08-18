@@ -43,3 +43,9 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+
+torch>=1.7.1
+torchvision>=0.8.2
+pillow>=8.0.1
+matplotlib>=3.3.3
